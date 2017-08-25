@@ -1,16 +1,39 @@
+<!-- It's my birthday on 2-9, I'd love it to see some of my less-appreciated maps being played :P
+     Could this rotation be added for 1 day? <3 
+     YAY? -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rotation>
-    <map>Railway</map>
-    <map>Formorgar 2</map>
-    <map>Unix</map>
-    <map>Proelium1.5</map>
-    <map>Dust Devils</map>
-    <map>Sandstorm</map>
-    <map>Ravanged</map>
-    <map>Senex 1</map>
-    <map>Senex 2</map>
-    <map>Campi Erbosi Origins</map>
-    <map>Sector Six</map>
-    <map>Port Town 1</map>
-    <map>Tallon Overworld</map>
+    <map>Arida</map>
+    <map>Ponylands2.5</map>
+    <map>YinYang</map>
+    <map>Solvite</map>
+    <map>Waves</map>
+    <map>Reindeers</map>
+    <map>Darkness</map>
+    <map>PonylandsDTC</map>
+    <map>SquaredNature</map>
+    <map>Magnum</map>
+    <map>TheToys</map>
+    <!-- 
+    
+    These Maps were made and submitted before, some even accepted or added. But lost their XML, because it was not updated:
+    <map>Ponylands1</map>
+    <map>Milky</map>
+    <map>CurvedDesert</map>
+    <map>Smite</map>
+    <map>IceLanes</map>
+    <map>DesertLanes</map>
+    <map>Subter</map>
+
+    These maps aren't Destroy, but could be added for once :>
+    <map>Cake</map>
+    <map>Towers</map>
+    <map>Valley</map>
+    -->
 </rotation>
+
+
+
+
+
+<!-- FISH -->
